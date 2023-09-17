@@ -1,2 +1,1 @@
-# personal-portfolio
-this is a personal portfolio 
+# personal-site
